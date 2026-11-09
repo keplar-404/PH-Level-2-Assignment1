@@ -1,7 +1,5 @@
 # TypeScript Assignment
 
-## Assignment Overview
-
 This assignment focuses on practicing TypeScript fundamentals and advanced concepts.
 
 The coding section covers functions, types, tuples, generics, interfaces, array methods, classes, inheritance, access modifiers, and asynchronous programming using Promises.
